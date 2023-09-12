@@ -1,2 +1,3 @@
 ﻿  GitRepositoriosFiguras.cpp
+C:\Users\ferch\source\repos\GitRepositoriosFiguras\GitRepositoriosFiguras.cpp(8,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
   GitRepositoriosFiguras.vcxproj -> C:\Users\ferch\source\repos\GitRepositoriosFiguras\x64\Debug\GitRepositoriosFiguras.exe
